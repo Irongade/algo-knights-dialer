@@ -1,5 +1,5 @@
 #### Knight's Dialer
-This workshop project explores the algorithmic complexities (speed and memory) of counting how many distinct paths can be taken on a standard 10-digit dialpad if the move (aka "hop") from one key to the next must be like a Knight on a chessboard (two spaces in one direction, and one space in the perpendicular direction).
+This project explores the algorithmic complexities (speed and memory) of counting how many distinct paths can be taken on a standard 10-digit dialpad if the move (aka "hop") from one key to the next must be like a Knight on a chessboard (two spaces in one direction, and one space in the perpendicular direction).
 
 Here's a standard 10-digit dialpad:
 
