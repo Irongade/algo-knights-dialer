@@ -3,17 +3,20 @@ This workshop project explores the algorithmic complexities (speed and memory) o
 
 Here's a standard 10-digit dialpad:
 
-`1 2 3
+```1 2 3
 4 5 6
 7 8 9
-  0`
+  0
+```
 
 If you start from the 4 key, for example, you can hop (like a chess Knight) to the 3, 9, or 0 keys, as illustrated here (the @ marks the current position, and the *s mark the possible keys you can hop to from that position).
 
-`1 2 *
+```
+1 2 *
 @ 5 6
 7 8 *
-  *`
+  *
+```
 
 Similarly, if you start from the 3 key, you can only hop to the 4 or 8 keys. But if you start from the 5 key, you can't hop anywhere, nor can the 5 key be hopped to from any other key.
 
